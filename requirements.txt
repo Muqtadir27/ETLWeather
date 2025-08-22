@@ -1,0 +1,2 @@
+# Extra providers needed for this project
+apache-airflow-providers-http
