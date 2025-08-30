@@ -14,7 +14,7 @@ Welcome to **Astronomer**! This project was generated after you ran 'astro dev i
 - airflow_settings.yaml: Use this local-only file to specify Airflow Connections, Variables, and Pools instead of entering them in the Airflow UI as you develop DAGs in this project.
 
 # Deploy Your Project Locally
-
+ 
 Start Airflow on your local machine by running 'astro dev start'.
 
  This command will spin up five Docker containers on your machine, each for a different Airflow component:
